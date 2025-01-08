@@ -8,7 +8,7 @@ To run the code, install the following libraries: `PyTorch 1.13.1`, `Torchvision
 
 ### Download the dataset
 
-Download the FSC147 dataset as instructed in its [official repository](https://github.com/cvlab-stonybrook/LearningToCountEverything). Make sure to also download the `annotation_FSC147_384.json` and `Train_Test_Val_FSC_147.json` and place them alongside the image directory (`images_384_VarV2`) in the directory of your choice.
+Download the FSC147 dataset as instructed in its [official repository](https://github.com/cvlab-stonybrook/LearningToCountEverything). Make sure also to download the `annotation_FSC147_384.json` and `Train_Test_Val_FSC_147.json` and place them alongside the image directory (`images_384_VarV2`) in the directory of your choice.
 
 ```
 ├─FSC147/    
@@ -25,7 +25,7 @@ Download the FSC147 dataset as instructed in its [official repository](https://g
 # generation
 CUDA_VISIBLE_DEVICES=0 python adem.py --image_name [IMAGE_NAME] --data_path [DATA_PATH]
 
-# visualisation
+# visualization
 CUDA_VISIBLE_DEVICES=0 python adem_show.py --image_name [IMAGE_NAME] --data_path [DATA_PATH]
 ```
 
