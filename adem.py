@@ -20,7 +20,7 @@ def calc_angle(center, b_cod, device='cuda:0'):
 
 
 def distance(position, min_l, device='cuda:0'):
-    alpha = 0.4
+    alpha = 0.3
     # Calculate distance matrix
     num = len(position)
     distance_matrix = torch.zeros((num, num), device=device)
