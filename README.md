@@ -1,6 +1,8 @@
 # Boosting Low-shot Object Counting with Adaptive Elliptic Density Map
 
-<img src="asset/overview.jpg" style="zoom30%;" />
+<p align = "center">    
+<img  src="asset/overview.jpg" width="800" />
+</p>
 
 ## Setup
 
