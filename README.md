@@ -56,7 +56,7 @@ CUDA_VISIBLE_DEVICES=0 python adem_show.py --image_name [IMAGE_NAME] --data_path
 
 ### Visualization
 
-<img src="asset/Visualization.jpg" style="zoom:80%;" />
+<img src="asset/visualization.jpg" style="zoom:80%;" />
 
 ### Acknowledgement
 
