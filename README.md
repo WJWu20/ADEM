@@ -1,6 +1,6 @@
 # Boosting Low-shot Object Counting with Adaptive Elliptic Density Map
 
-<img src="/media/lcc/DATA/wwj/code/Aseg/asset/overview.jpg" style="zoom: 30%;" />
+<img src="asset/overview.jpg" style="zoom: 30%;" />
 
 ### Environment
 
